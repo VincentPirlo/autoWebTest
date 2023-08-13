@@ -1,0 +1,195 @@
+1689776312039	geckodriver	INFO	Listening on 127.0.0.1:7362
+1689776353739	geckodriver	INFO	Listening on 127.0.0.1:7375
+1689777797357	geckodriver	INFO	Listening on 127.0.0.1:7933
+1689777800367	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "7934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileGMx4is"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689777802255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689777804282	Marionette	INFO	Listening on port 7941
+WebDriver BiDi listening on ws://127.0.0.1:7934
+Read port: 7941
+1689777804510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:7934/devtools/browser/2b3525bc-73c9-41e1-9c94-5e0c8306ed30
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689777812554	Marionette	INFO	Stopped listening on port 7941
+Dynamically enable window occlusion 1
+1689778579967	geckodriver	INFO	Listening on 127.0.0.1:8217
+1689778582964	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofiledutyxx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689778583495	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689778583678	Marionette	INFO	Listening on port 8226
+Read port: 8226
+WebDriver BiDi listening on ws://127.0.0.1:8218
+1689778583745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8218/devtools/browser/c7bf7a7e-0455-431c-8958-858611680ee1
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689778603180	Marionette	INFO	Stopped listening on port 8226
+Dynamically enable window occlusion 1
+1689779092229	geckodriver	INFO	Listening on 127.0.0.1:8350
+1689779095226	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileRcT4IZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779095805	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779096045	Marionette	INFO	Listening on port 8358
+WebDriver BiDi listening on ws://127.0.0.1:8351
+Read port: 8358
+1689779096447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8351/devtools/browser/75e9df1f-bba9-4d10-96d2-4f76021d8fe0
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689779103506	Marionette	INFO	Stopped listening on port 8358
+Dynamically enable window occlusion 1
+1689779178993	geckodriver	INFO	Listening on 127.0.0.1:8422
+1689779181992	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofilexieqJj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779182571	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779182831	Marionette	INFO	Listening on port 8430
+WebDriver BiDi listening on ws://127.0.0.1:8423
+Read port: 8430
+1689779183296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8423/devtools/browser/4301ef87-e5fe-4dc6-b983-34774c70575d
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689779193677	Marionette	INFO	Stopped listening on port 8430
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 550: TypeError: browser is null
+1689779381897	geckodriver	INFO	Listening on 127.0.0.1:8555
+1689779384887	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileiPYpyM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779385473	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779385726	Marionette	INFO	Listening on port 8563
+WebDriver BiDi listening on ws://127.0.0.1:8556
+Read port: 8563
+1689779386126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8556/devtools/browser/7902f82b-5058-4df4-b061-18d6774a073a
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689779398493	Marionette	INFO	Stopped listening on port 8563
+Dynamically enable window occlusion 1
+1689779455465	geckodriver	INFO	Listening on 127.0.0.1:8666
+1689779458464	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileOXpfV5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779459075	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779459328	Marionette	INFO	Listening on port 8674
+WebDriver BiDi listening on ws://127.0.0.1:8667
+Read port: 8674
+1689779459724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8667/devtools/browser/d121f1a2-5aa4-454f-b91e-ff53b6c3479c
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689779474379	Marionette	INFO	Stopped listening on port 8674
+Dynamically enable window occlusion 1
+1689779488122	geckodriver	INFO	Listening on 127.0.0.1:8737
+1689779491125	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileYaHKfE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779491773	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779492036	Marionette	INFO	Listening on port 8750
+Read port: 8750
+WebDriver BiDi listening on ws://127.0.0.1:8738
+1689779492148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8738/devtools/browser/3c4e4297-50f9-4e07-9da9-d1a436b73c8f
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689779581475	Marionette	INFO	Stopped listening on port 8750
+Dynamically enable window occlusion 1
+ng command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "8865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileLF8KtO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779542548	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779542836	Marionette	INFO	Listening on port 8888
+WebDriver BiDi listening on ws://127.0.0.1:8865
+Read port: 8888
+1689779543142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:8865/devtools/browser/673ca376-5037-4262-8a2d-2638202ef148
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689779557922	Marionette	INFO	Stopped listening on port 8888
+Dynamically enable window occlusion 1
+1689779817182	geckodriver	INFO	Listening on 127.0.0.1:9030
+1689779820195	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "9031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofile01FuxI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779820943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779821127	Marionette	INFO	Listening on port 9038
+WebDriver BiDi listening on ws://127.0.0.1:9031
+Read port: 9038
+1689779821455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9031/devtools/browser/c2eca23c-8185-4fa3-ba3b-c3d0b663c710
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689779838322	Marionette	INFO	Stopped listening on port 9038
+Dynamically enable window occlusion 1
+[Parent 9676, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1689779928333	geckodriver	INFO	Listening on 127.0.0.1:9144
+1689779931337	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "9145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofileOOpXGe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689779931972	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689779932404	Marionette	INFO	Listening on port 9153
+WebDriver BiDi listening on ws://127.0.0.1:9145
+Read port: 9153
+1689779932929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9145/devtools/browser/4b2bc8ef-5bec-47c2-a912-abfcbdf61d34
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689779948928	Marionette	INFO	Stopped listening on port 9153
+Dynamically enable window occlusion 1
+[Parent 16224, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1689780061527	geckodriver	INFO	Listening on 127.0.0.1:9408
+1689780064530	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "9409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofilec5mP4e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689780065689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689780066046	Marionette	INFO	Listening on port 9417
+WebDriver BiDi listening on ws://127.0.0.1:9409
+Read port: 9417
+1689780066196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9409/devtools/browser/0ebc223d-bf86-4029-8cf8-7eecd11e95f2
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689780112224	Marionette	INFO	Stopped listening on port 9417
+Dynamically enable window occlusion 1
+1689780113554	geckodriver	INFO	Listening on 127.0.0.1:9540
+1689780116549	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "9541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofilewR520y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689780117169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689780117435	Marionette	INFO	Listening on port 9549
+WebDriver BiDi listening on ws://127.0.0.1:9541
+Read port: 9549
+1689780117715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9541/devtools/browser/0c63725a-43c0-4aa9-a8ef-b1eee7344224
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689780133634	Marionette	INFO	Stopped listening on port 9549
+Dynamically enable window occlusion 1
+1689780152744	geckodriver	INFO	Listening on 127.0.0.1:9649
+1689780155748	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "9650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vincent\\AppData\\Local\\Temp\\rust_mozprofile4R04zx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689780156361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689780156631	Marionette	INFO	Listening on port 9657
+WebDriver BiDi listening on ws://127.0.0.1:9650
+Read port: 9657
+1689780156919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9650/devtools/browser/fb025855-497d-452d-b56b-558b598b4931
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1689780172808	Marionette	INFO	Stopped listening on port 9657
+Dynamically enable window occlusion 1
